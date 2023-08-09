@@ -1,0 +1,3 @@
+Nume:  Prenume:  Telefon: Pret: Valoare totala:  
+Ene Bianca 078372724 4900 6150
+Elena Ioana 02743656 5555 6805
